@@ -1,0 +1,31 @@
+﻿  tests.cpp
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\helpers.cpp(235): warning C4101: 'color': unreferenced local variable
+c:\users\tomo\desktop\udacity\c-pp-project\debugging_helpers.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\debugging_helpers.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\debugging_helpers.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\debugging_helpers.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\localizer.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\localizer.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(46): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(61): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(240): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tomo\desktop\udacity\c-pp-project\tests.cpp(241): warning C4305: '=': truncation from 'double' to 'float'
+  UdacityIsdcHistogramFilter.vcxproj -> C:\Users\tomo\Desktop\udacity\c-pp-project\Debug\UdacityIsdcHistogramFilter.exe
